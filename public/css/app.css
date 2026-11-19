@@ -17,3 +17,10 @@
 .password-toggle{position:absolute;left:8px;top:50%;transform:translateY(-50%);width:28px;height:28px;display:grid;place-items:center;border:0;background:transparent;color:#7d8b8c;cursor:pointer;padding:4px;border-radius:6px;}
 .password-toggle:hover{color:var(--teal);background:rgba(6,95,79,.06);}
 .password-toggle svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;}
+
+.Ahmedimage {
+    width: 70px;
+    height: 70px;
+    object-fit: contain;
+    cursor: pointer;
+}
